@@ -1,0 +1,71 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background: red;
+    text-align:center;
+    padding: 20px;
+    border:2px solid;
+    margin-bottom: 5px;
+
+}
+.nav{
+    background: blue;
+    text-align: center;
+    padding: 10px;
+    border:2px solid;
+    margin-bottom: 5px;
+}
+.article{
+    overflow: hidden;
+}
+.content{
+    background: crimson;
+    text-align: center;
+    border: 2px solid;
+    float: left;
+    height: 600px;
+    width: 68%;
+    margin-right:5px;
+}
+.sidebar{
+    
+    text-align: center;
+    width: 31.2%;
+    overflow: hidden;
+}
+.box2{
+    background: darkgreen;
+    height: 195px;
+    border: solid 2px;
+    margin-bottom: 3px;
+    margin-left:2px;
+    
+    
+}
+.box4{
+    background: darkgreen;
+    height: 195px;
+    border: solid 2px;
+    margin-bottom: 3px;
+    margin-left:2px;
+
+
+}
+.box5{
+    background: darkgreen;
+    height: 195px;
+    border: solid 2px;
+    margin-bottom: 3px;
+    margin-left:2px;
+  
+   
+}
+footer{
+background:yellowgreen;
+text-align: center;
+margin-top: 5px;
+padding: 10px;
+border: solid 2px;
+}
