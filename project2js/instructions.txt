@@ -1,0 +1,9 @@
+EXCERISE
+
+For the numbers 1 - 100
+If divisible by 3 Print Jesse
+If divisible by 5 Print James
+If divisible by 3 & 5 Print Team Rocket
+Else print the number
+
+HINT: Use the Modulo Operator. % 
